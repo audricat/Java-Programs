@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 //    problem statement was like that we have to add all the elements of an array
 //    except the element at the index.
